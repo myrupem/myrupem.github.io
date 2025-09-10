@@ -2,15 +2,16 @@
 
 ## I'm Emilia Myrup — Web Developer  
 
-Passionate about code, UI/UX, and building things that make a difference.  
-I enjoy creating clean, user-friendly experiences and constantly exploring new technologies.  
+## 👩‍💻 About Me  
 
+Hi, I'm **Emilia Myrup** — a web developer passionate about turning ideas into interactive and user-friendly experiences.  
+I love working at the intersection of **code, design, and usability**, with a strong focus on clean UI/UX.  
+Right now, I'm expanding my skills by diving into **Node.js** and **SwiftUI**, aiming to grow as a versatile developer who can bring both web and mobile projects to life.  
+  
 ### 🌱 Currently learning
 - Node.js  
 - SwiftUI  
 
-### 📫 Let's connect
-- [GitHub](https://github.com/myrupem)
-- [LinkedIn](https://www.linkedin.com/) <!-- add your profile link -->
+
 
 
